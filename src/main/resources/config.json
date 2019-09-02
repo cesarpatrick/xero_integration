@@ -1,0 +1,7 @@
+{ 
+	"AppType" : "PUBLIC",
+	"ConsumerKey" : "DSH5IB4HMCVOA9FH2PGCBOR3EYK6CG",
+	"ConsumerSecret" : "FT7DHDBJOZDL0YVVXKIVSYNQ8CK3ZK",
+	"CallbackBaseUrl" : "https://localhost:8443/xero_integration/api/controller",
+	"CallbackPath" : "/callBackToken"
+}
